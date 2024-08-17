@@ -1,5 +1,7 @@
 # bcgame
 
+## Description
+Bc.game verification scripts for different original games, like mines, dice, plinko, etc.
 
 ## Available Scripts
 
